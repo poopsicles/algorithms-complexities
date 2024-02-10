@@ -1,0 +1,7 @@
+project:
+i used typst: https://github.com/typst 
+first get the binary, and then install the "nvarner.typst-lsp" and "mgt19937.typst-preview" extensions in vscode
+
+presentation:
+get the SF Pro fonts from https://developer.apple.com/fonts
+I also used Cambria Math and C059

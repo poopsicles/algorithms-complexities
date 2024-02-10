@@ -1,0 +1,25 @@
+algo:
+  type: Book
+  title: Algorithms
+  author: [Robert Sedgewick, Kevin Wayne]
+  edition: 4th
+  date: 2014
+  page-range: 250
+
+thocp:
+  type: Book
+  title: The Art of Computer Programming
+  volume: 3 - Sorting and Searching
+  edition: 2nd
+  author: Donald Knuth
+  date: 1998
+  page-range: 82
+
+stack:
+  type: Web
+  url: 
+    value: https://stackoverflow.com/a/17055342
+    date: 2024-10-10
+  author: templatetypedef
+  date: 2013
+  note: Licensed under CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/
